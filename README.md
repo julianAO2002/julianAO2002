@@ -23,7 +23,7 @@ I approach problems like puzzles. Whether it's academic simulations (like airpor
 
 ### 🚀 Some of My Projects
 
-- 🧾 **HTML ➜ Markdown converter** for FastAPI documentation  
+- 🤖 **Automated web scraping and data extraction** using Selenium for documentation processing
 - 🛫 **Simulation of airport and toll booth operations** using custom queues  
 - 🧠 **Symbolic/psychological system analysis**  
 - 🖥️ **Desktop app with Qt6** for simple data entry and visualization
