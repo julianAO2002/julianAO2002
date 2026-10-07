@@ -1,48 +1,29 @@
-<h1 align="center">Hi there! I'm Julián 👋</h1>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Julián Olivera — Sistemas de Información · UADER — Fullstack + Seguridad">
+</p>
 
-### 💻 About Me
+<p align="center">
+  <img src="assets/arquitectura.svg" width="100%" alt="Vista de arquitectura: Cliente (React, TypeScript, Tailwind) → API (Node, FastAPI, Django) → Datos (Prisma, PostgreSQL, SQLite). Módulos: automatización (Python, Selenium, PowerShell) y seguridad (Suricata, Wazuh, OSINT).">
+</p>
 
-I'm currently studying for a **Bachelor’s Degree in Information Systems**, with a deep interest in programming, system design, and technical problem-solving. I like to go beyond the surface—understanding how and why things work.
+<p align="center">
+  <img src="assets/piezas.svg" width="100%" alt="Lista de piezas: proyectos">
+  <a href="https://github.com/julianAO2002/fleet-monitor"><img src="assets/pieza-01.svg" width="100%" alt="01 · fleet-monitor — Lab de despliegue para flotas de nodos remotos con conectividad intermitente · Python, Docker, CI"></a>
+  <a href="https://github.com/julianAO2002/purple-team-lab"><img src="assets/pieza-02.svg" width="100%" alt="02 · purple-team-lab — Lab de ciberseguridad: atacar, detectar, ajustar reglas · Suricata, Wazuh"></a>
+  <img src="assets/pieza-03.svg" width="100%" alt="03 · personaltrainer-app (repo privado) — Rutinas, alumnos y progreso para entrenadores · React, Node, Prisma">
+  <a href="https://github.com/julianAO2002/gestionEducativa"><img src="assets/pieza-04.svg" width="100%" alt="04 · gestionEducativa — Gestión de instituciones educativas con roles · Django, Bootstrap"></a>
+</p>
 
-I approach problems like puzzles. Whether it's academic simulations (like airports or toll booths) or symbolic analyses with a psychological lens, I enjoy finding patterns, connections, and meaningful solutions.
+<p align="center">
+  <img src="assets/registro.svg" width="100%" alt="Registro de obra: contribuciones">
+  <img src="https://raw.githubusercontent.com/julianAO2002/julianAO2002/output/registro-de-obra.svg" width="100%" alt="Snake recorriendo el gráfico de contribuciones">
+</p>
 
----
+<p align="center">
+  <img src="assets/rotulo.svg" width="100%" alt="Plano Nº JO-001 · Dibujó J. Olivera · Estado: en construcción · Revisión 2026">
+</p>
 
-### 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-blue?style=flat)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-
----
-
-### 🚀 Some of My Projects
-
-- 🤖 **Automated web scraping and data extraction** using Selenium for documentation processing
-- 🛫 **Simulation of airport and toll booth operations** using custom queues  
-- 🧠 **Symbolic/psychological system analysis**  
-- 🖥️ **Desktop app with Qt6** for simple data entry and visualization
-
----
-
-### 🔍 Always Learning
-
-- I enjoy **calculus**, software design, logic, and modeling real-world systems  
-- I'm exploring **digital ethics** and how tech shapes perception and privacy  
-
----
-
-### 📫 Contact
-
-Find me here:  
-[GitHub](https://github.com/julianAO2002/julianAO2002) | [LinkedIn](https://www.linkedin.com/in/juli%C3%A1n-agust%C3%ADn-olivera-0a3b8121a/) 
-
----
-
-<sub>Always looking for the structure behind the chaos 🧩</sub>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/juli%C3%A1n-agust%C3%ADn-olivera-0a3b8121a/"><img src="https://img.shields.io/badge/LinkedIn-0b3a6e?style=for-the-badge&logo=linkedin&logoColor=ffd166" alt="LinkedIn"></a>
+  <a href="https://github.com/julianAO2002?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-0b3a6e?style=for-the-badge&logo=github&logoColor=ffd166" alt="Repositorios"></a>
+</p>
