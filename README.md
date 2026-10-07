@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Julián Olivera — Sistemas de Información · UADER — Fullstack + Seguridad">
+  <img src="assets/header.svg" width="100%" alt="puzzlecore — Julián Olivera — Sistemas de Información · UADER — Fullstack + Seguridad">
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/rotulo.svg" width="100%" alt="Plano Nº JO-001 · Dibujó J. Olivera · Estado: en construcción · Revisión 2026">
+  <img src="assets/rotulo.svg" width="100%" alt="puzzlecore — Siempre buscando la estructura detrás del caos. Plano Nº JO-001 · Dibujó J. Olivera · Estado: en construcción · Revisión 2026">
 </p>
 
 <p align="center">

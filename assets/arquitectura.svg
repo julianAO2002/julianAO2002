@@ -4,6 +4,8 @@
 .bcs{font-family:'BCS','Arial Narrow',sans-serif;font-weight:600}
 .sm{font-family:'SM',ui-monospace,monospace}
 .smb{font-family:'SMB',ui-monospace,monospace;font-weight:700}
+.sg4{font-family:'SG4',sans-serif;font-weight:400}
+.sg7{font-family:'SG7',sans-serif;font-weight:700}
 
 @media (prefers-reduced-motion: reduce){*{animation:none!important}}
 </style>
