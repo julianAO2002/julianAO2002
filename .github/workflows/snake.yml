@@ -1,4 +1,4 @@
-name: registro de obra
+name: plano
 
 on:
   schedule:
@@ -14,11 +14,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/registro-de-obra.svg?color_snake=#ffd166&color_dots=#123f72,#2f6aa3,#5f97cf,#a9d1f5,#eaf4ff
+
+      - name: Armar la hoja completa
+        run: python3 tools/plano/build.py --snake dist/registro-de-obra.svg --out dist/plano.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
